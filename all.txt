@@ -1,0 +1,10 @@
+trojan://FhP9jUSrRf@irmci.iranac.net:2087?security=tls&sni=sni02.noqteh.com&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=dom01.noqteh.com&path=%2Fshomal#trojan00
+trojan://wlECaosTje@h01.iranac.net:2096?security=tls&sni=sni02.noqteh.com&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=dom01.noqteh.com&path=%2Ftrj#trj01
+
+vless://2b71c03e-1fc7-48ab-ba53-85f5c20e2d82@h01.iranac.net:2083?encryption=none&security=tls&sni=sni02.noqteh.com&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=dom01.noqteh.com&path=%2Ftehran#vless00
+vless://2b71c03e-1fc7-48ab-ba53-85f5c20e2d82@h02.iranac.net:2083?encryption=none&security=tls&sni=sni02.noqteh.com&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=dom01.noqteh.com&path=%2Ftehran#vless01
+vless://2b71c03e-1fc7-48ab-ba53-85f5c20e2d82@h03.iranac.net:2083?encryption=none&security=tls&sni=sni02.noqteh.com&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=dom01.noqteh.com&path=%2Ftehran#vless02
+vless://2b71c03e-1fc7-48ab-ba53-85f5c20e2d82@irmci.iranac.net:2083?encryption=none&security=tls&sni=sni02.noqteh.com&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=dom01.noqteh.com&path=%2Ftehran#vless03
+vless://2b71c03e-1fc7-48ab-ba53-85f5c20e2d82@irxmci.iranac.net:2083?encryption=none&security=tls&sni=sni02.noqteh.com&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=dom01.noqteh.com&path=%2Ftehran#vless04
+
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogInRlc3R2bXMiLA0KICAiYWRkIjogImlybWNpLmlyYW5hYy5uZXQiLA0KICAicG9ydCI6ICIyMDUzIiwNCiAgImlkIjogImZiYWU3YzYxLWZlYjEtNDQxNC1kMmI0LTY3ZjI3NDU2NjJmZCIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiZG9tMDEubm9xdGVoLmNvbSIsDQogICJwYXRoIjogIi92bXMiLA0KICAidGxzIjogInRscyIsDQogICJzbmkiOiAic25pMDIubm9xdGVoLmNvbSIsDQogICJhbHBuIjogImgyLGh0dHAvMS4xIiwNCiAgImZwIjogInJhbmRvbWl6ZWQiDQp9
