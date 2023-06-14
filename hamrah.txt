@@ -8,6 +8,16 @@ vless://7b7229fb-c621-4584-e77c-362b06c74ddc@mci2.iranac.net:443?encryption=none
 vless://7b7229fb-c621-4584-e77c-362b06c74ddc@mtn1.iranac.net:443?encryption=none&security=tls&sni=qwertz1.noqteh.com&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=dom01.noqteh.com&path=%2Fvls#vls08
 vless://7b7229fb-c621-4584-e77c-362b06c74ddc@mtn2.iranac.net:443?encryption=none&security=tls&sni=qwertz1.noqteh.com&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=dom01.noqteh.com&path=%2Fvls#vls09
 
+vless://f702ef3a-134b-4603-c60b-9b321f699e6e@h01.iranac.net:2053?encryption=none&security=tls&sni=qwertz2.noqteh.com&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=dom01.noqteh.com&path=%2Fclient#new-vls-1
+vless://f702ef3a-134b-4603-c60b-9b321f699e6e@h02.iranac.net:2053?encryption=none&security=tls&sni=qwertz2.noqteh.com&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=dom01.noqteh.com&path=%2Fclient#new-vls-2
+vless://f702ef3a-134b-4603-c60b-9b321f699e6e@h03.iranac.net:2053?encryption=none&security=tls&sni=qwertz2.noqteh.com&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=dom01.noqteh.com&path=%2Fclient#new-vls-3
+vless://f702ef3a-134b-4603-c60b-9b321f699e6e@irmci.iranac.net:2053?encryption=none&security=tls&sni=qwertz2.noqteh.com&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=dom01.noqteh.com&path=%2Fclient#new-vls-4
+vless://f702ef3a-134b-4603-c60b-9b321f699e6e@irxmci.iranac.net:2053?encryption=none&security=tls&sni=qwertz2.noqteh.com&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=dom01.noqteh.com&path=%2Fclient#new-vls-5
+vless://f702ef3a-134b-4603-c60b-9b321f699e6e@mci1.iranac.net:2053?encryption=none&security=tls&sni=qwertz2.noqteh.com&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=dom01.noqteh.com&path=%2Fclient#new-vls-6
+vless://f702ef3a-134b-4603-c60b-9b321f699e6e@mci2.iranac.net:2053?encryption=none&security=tls&sni=qwertz2.noqteh.com&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=dom01.noqteh.com&path=%2Fclient#new-vls-7
+vless://f702ef3a-134b-4603-c60b-9b321f699e6e@mtn1.iranac.net:2053?encryption=none&security=tls&sni=qwertz2.noqteh.com&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=dom01.noqteh.com&path=%2Fclient#new-vls-8
+vless://f702ef3a-134b-4603-c60b-9b321f699e6e@mtn2.iranac.net:2053?encryption=none&security=tls&sni=qwertz2.noqteh.com&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=dom01.noqteh.com&path=%2Fclient#new-vls-9
+
 trojan://FhP9jUSrRf@irmci.iranac.net:2087?security=tls&sni=qwertz1.noqteh.com&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=dom01.noqteh.com&path=%2Fshomal#trojan01
 trojan://FhP9jUSrRf@irxmci.iranac.net:2087?security=tls&sni=qwertz1.noqteh.com&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=dom01.noqteh.com&path=%2Fshomal#trojan02
 trojan://FhP9jUSrRf@h01.iranac.net:2087?security=tls&sni=qwertz1.noqteh.com&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=dom01.noqteh.com&path=%2Fshomal#trojan03
