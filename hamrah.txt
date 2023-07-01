@@ -14,11 +14,11 @@ vless://f702ef3a-134b-4603-c60b-9b321f699e6e@a5.iranac.net:2053?encryption=none&
 vless://f702ef3a-134b-4603-c60b-9b321f699e6e@a6.iranac.net:2053?encryption=none&security=tls&sni=qwertz3.noqteh.com&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=dom01.noqteh.com&path=%2Fclient#new-vls-6
 vless://f702ef3a-134b-4603-c60b-9b321f699e6e@a7.iranac.net:2053?encryption=none&security=tls&sni=qwertz3.noqteh.com&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=dom01.noqteh.com&path=%2Fclient#new-vls-7
 
-trojan://FhP9jUSrRf@a4.iranac.net:2087?security=tls&sni=qwertz3.noqteh.com&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=dom01.noqteh.com&path=%2Fshomal#trojan01
-trojan://FhP9jUSrRf@a5.iranac.net:2087?security=tls&sni=qwertz3.noqteh.com&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=dom01.noqteh.com&path=%2Fshomal#trojan02
-trojan://FhP9jUSrRf@a1.iranac.net:2087?security=tls&sni=qwertz3.noqteh.com&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=dom01.noqteh.com&path=%2Fshomal#trojan03
-trojan://FhP9jUSrRf@a2.iranac.net:2087?security=tls&sni=qwertz3.noqteh.com&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=dom01.noqteh.com&path=%2Fshomal#trojan04
-trojan://FhP9jUSrRf@a3.iranac.net:2087?security=tls&sni=qwertz3.noqteh.com&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=dom01.noqteh.com&path=%2Fshomal#trojan05
+trojan://FhP9jUSrRf@a1.iranac.net:2087?security=tls&sni=qwertz3.noqteh.com&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=dom01.noqteh.com&path=%2Fshomal#trojan01
+trojan://FhP9jUSrRf@a2.iranac.net:2087?security=tls&sni=qwertz3.noqteh.com&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=dom01.noqteh.com&path=%2Fshomal#trojan02
+trojan://FhP9jUSrRf@a3.iranac.net:2087?security=tls&sni=qwertz3.noqteh.com&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=dom01.noqteh.com&path=%2Fshomal#trojan03
+trojan://FhP9jUSrRf@a4.iranac.net:2087?security=tls&sni=qwertz3.noqteh.com&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=dom01.noqteh.com&path=%2Fshomal#trojan04
+trojan://FhP9jUSrRf@a5.iranac.net:2087?security=tls&sni=qwertz3.noqteh.com&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=dom01.noqteh.com&path=%2Fshomal#trojan05
 trojan://FhP9jUSrRf@a6.iranac.net:2087?security=tls&sni=qwertz3.noqteh.com&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=dom01.noqteh.com&path=%2Fshomal#trojan06
 trojan://FhP9jUSrRf@a7.iranac.net:2087?security=tls&sni=qwertz3.noqteh.com&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=dom01.noqteh.com&path=%2Fshomal#trojan07
 
