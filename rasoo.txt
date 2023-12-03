@@ -22,14 +22,6 @@ vless://2b71c03e-1fc7-48ab-ba53-85f5c20e2d82@www5.rasoo.de:2083?encryption=none&
 vless://2b71c03e-1fc7-48ab-ba53-85f5c20e2d82@www6.rasoo.de:2083?encryption=none&security=tls&sni=a01a.rasoo.de&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=blog.rasoo.de&path=%2Ftehran#vless06
 vless://2b71c03e-1fc7-48ab-ba53-85f5c20e2d82@www7.rasoo.de:2083?encryption=none&security=tls&sni=a01a.rasoo.de&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=blog.rasoo.de&path=%2Ftehran#vless07
 
-trojan://wlECaosTje@www1.rasoo.de:2096?security=tls&sni=a01a.rasoo.de&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=blog.rasoo.de&path=%2Ftrj#trj01
-trojan://wlECaosTje@www2.rasoo.de:2096?security=tls&sni=a01a.rasoo.de&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=blog.rasoo.de&path=%2Ftrj#trj02
-trojan://wlECaosTje@www3.rasoo.de:2096?security=tls&sni=a01a.rasoo.de&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=blog.rasoo.de&path=%2Ftrj#trj03
-trojan://wlECaosTje@www4.rasoo.de:2096?security=tls&sni=a01a.rasoo.de&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=blog.rasoo.de&path=%2Ftrj#trj04
-trojan://wlECaosTje@www5.rasoo.de:2096?security=tls&sni=a01a.rasoo.de&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=blog.rasoo.de&path=%2Ftrj#trj05
-trojan://wlECaosTje@www6.rasoo.de:2096?security=tls&sni=a01a.rasoo.de&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=blog.rasoo.de&path=%2Ftrj#trj06
-trojan://wlECaosTje@www7.rasoo.de:2096?security=tls&sni=a01a.rasoo.de&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=blog.rasoo.de&path=%2Ftrj#trj07
-
 vless://f702ef3a-134b-4603-c60b-9b321f699e6e@www1.rasoo.de:2053?encryption=none&security=tls&sni=a01a.rasoo.de&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=blog.rasoo.de&path=%2Fclient#new-vls-1
 vless://f702ef3a-134b-4603-c60b-9b321f699e6e@www2.rasoo.de:2053?encryption=none&security=tls&sni=a01a.rasoo.de&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=blog.rasoo.de&path=%2Fclient#new-vls-2
 vless://f702ef3a-134b-4603-c60b-9b321f699e6e@www3.rasoo.de:2053?encryption=none&security=tls&sni=a01a.rasoo.de&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=blog.rasoo.de&path=%2Fclient#new-vls-3
