@@ -29,5 +29,3 @@ vless://f702ef3a-134b-4603-c60b-9b321f699e6e@www4.rasoo.de:2053?encryption=none&
 vless://f702ef3a-134b-4603-c60b-9b321f699e6e@www5.rasoo.de:2053?encryption=none&security=tls&sni=a01a.rasoo.de&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=blog.rasoo.de&path=%2Fclient#new-vls-5
 vless://f702ef3a-134b-4603-c60b-9b321f699e6e@www6.rasoo.de:2053?encryption=none&security=tls&sni=a01a.rasoo.de&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=blog.rasoo.de&path=%2Fclient#new-vls-6
 vless://f702ef3a-134b-4603-c60b-9b321f699e6e@www7.rasoo.de:2053?encryption=none&security=tls&sni=a01a.rasoo.de&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=blog.rasoo.de&path=%2Fclient#new-vls-7
-
-vless://5db786ec-5ceb-4191-d602-406a4df56ae4@blog1001.righou.com:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=rty.righou.com&fp=chrome&pbk=aaC89RQjTAsr10wK8RK3ZLBalnNWHx4SkFncO-GoWGw&sid=d2a1&spx=%2Fsp10001001&type=tcp&headerType=none#rty-rty-client
