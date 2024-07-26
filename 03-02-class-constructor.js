@@ -6,7 +6,7 @@ const Product_Prices = {
     "banana": 1.5
 }
 // using object for shopping cart
-/*cart = {
+/* cart = {
     items: [],
     get totalPrice() {
         let result = 0
@@ -36,7 +36,7 @@ cart.addToCart({name: "apple", count: 1})
 console.log(cart, cart.totalPrice)
 cart.removeFromCart("apple")
 console.log(cart, cart.totalPrice)
-*/
+ */
 // using class for shopping cart
 
 class CartItem { 
