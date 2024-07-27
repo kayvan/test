@@ -6,7 +6,7 @@ const name = "Akbar"
 age = 33.5
 let isMale= true
 age = 13
-// Felow controlers + loop
+// Fellow controllers + loop
 console.log("Name: " + name, "Age: " + age)
 if (age > 18 ) {
     console.log("you can proceed.")
