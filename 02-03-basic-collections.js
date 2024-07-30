@@ -29,7 +29,7 @@ console.log(uniqarr) // returns [ 1, 2, 4, 3, -6, 8, 5 ]
 uniqset = new Set(numbers) // makes a set from an array and removes duplicates
 console.log(uniqset) // returns Set(7) { 1, 2, 4, 3, -6, 8, 5 }
 
-// Array methods: push pop shift unshift map length concat filter
+// Array methods: push pop shift unshift map length concat filter -- some of this methods in 05-01
 const arr = [0, 1]
 arr.push(25, 6, 4) // adding element to the end
 console.log(arr)

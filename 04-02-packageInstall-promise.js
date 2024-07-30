@@ -19,7 +19,7 @@ const P1 = fetch("http://nopro.ffnt.de:6000/suisub/HtxeVODH") //fetch base64 enc
 .then((response) => response.text()) // then works when first promise is done and is not any more in pending state. it passes the output of first promise to response object
 .then((data) => console.log(atob(data))) // here we pass the output of response object to data object and use atob method to decode the base64 string and print it
 
-const P2 = fetch("http://nopro.ffnt.de:6000/suisub/HtxeVODH?format=json") //fetch json with details from our website
+const P2 = fetch("http://nopro.ffnt.de:6000/suisub/s4gaKc3O?format=json") //fetch json with details from our website
 .then((response) => response.json())
 .then((data) => {
     console.log(data) // prints all the details in json that we passed to data object
