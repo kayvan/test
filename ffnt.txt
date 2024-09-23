@@ -1,5 +1,0 @@
-hysteria2://7m67jIAy3z@nopro.ffnt.de:5010?sni=nopro.ffnt.de&obfs=salamander&obfs-password=ipu123kjkj345nbv234#hys-ffnt
-
-hysteria2://7m67jIAy3z@nopro.ffnt.de:5011?sni=nopro.ffnt.de&obfs=salamander&obfs-password=kjlhdefg987834jkl234ds#hys-ffnt%2Bech
-
-hysteria2://7m67jIAy3z@nopro.ffnt.de:5012?sni=nopro.ffnt.de&obfs=salamander&obfs-password=kjsdf887879sdef123#hys-ffnt%2Bech%2Bpqs
