@@ -29,3 +29,6 @@ trojan://iNqY3Ngh4W@www4.tupn.eu:2096?security=tls&sni=b01b.tupn.eu&alpn=h3%2Ch2
 trojan://iNqY3Ngh4W@www5.tupn.eu:2096?security=tls&sni=b01b.tupn.eu&alpn=h3%2Ch2%2Chttp%2F1.1&fp=firefox&type=ws&host=b01b.tupn.eu&path=%2Ftr2096#tr2096-cl2096
 trojan://iNqY3Ngh4W@www6.tupn.eu:2096?security=tls&sni=b01b.tupn.eu&alpn=h3%2Ch2%2Chttp%2F1.1&fp=firefox&type=ws&host=b01b.tupn.eu&path=%2Ftr2096#tr2096-cl2096
 trojan://iNqY3Ngh4W@www7.tupn.eu:2096?security=tls&sni=b01b.tupn.eu&alpn=h3%2Ch2%2Chttp%2F1.1&fp=firefox&type=ws&host=b01b.tupn.eu&path=%2Ftr2096#tr2096-cl2096
+
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206SXlRWEtnOE5YUDBmTHdUdGxmRlRHVE8zNS9CS2hBUFJvelBsdi9PSUlxTT06V2htMEkrS0hhQm4wRElpcVdSaHNCUnFRZzNJMkw3ZVRVK21SSDg4WTlEVT0%3D@www.tupn.eu:8443#sh8443-cl8443
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206SXlRWEtnOE5YUDBmTHdUdGxmRlRHVE8zNS9CS2hBUFJvelBsdi9PSUlxTT06V2htMEkrS0hhQm4wRElpcVdSaHNCUnFRZzNJMkw3ZVRVK21SSDg4WTlEVT0%3D@www1.tupn.eu:8443#sh8443-cl8443
