@@ -3,14 +3,27 @@
   "version": "1.0.0",
   "main": "01-var-loop-func.js",
   "type": "module",
+  "exports": {
+    "import": "./index.mjs",
+    "require": "./index.cjs"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
     "node-fetch": "^3.3.2"
   },
-  "description": ""
+  "description": "",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kayvan/test.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/kayvan/test/issues"
+  },
+  "homepage": "https://github.com/kayvan/test#readme"
 }
