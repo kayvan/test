@@ -9,3 +9,9 @@ trojan://iNIc9CES4S@www2.tupn.org:2096?security=tls&sni=t0f.tupn.org&fp=chrome&a
 trojan://iNIc9CES4S@www3.tupn.org:2096?security=tls&sni=t0f.tupn.org&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=ws&host=t0f.tupn.org&path=%2F2096#tr-2096-b901jlhl
 trojan://iNIc9CES4S@www4.tupn.org:2096?security=tls&sni=t0f.tupn.org&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=ws&host=t0f.tupn.org&path=%2F2096#tr-2096-b901jlhl
 trojan://iNIc9CES4S@www5.tupn.org:2096?security=tls&sni=t0f.tupn.org&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=ws&host=t0f.tupn.org&path=%2F2096#tr-2096-b901jlhl
+
+vless://d466f3f0-6f28-45cf-ad2e-b4df18a399ad@www1.tupn.org:2087?encryption=none&security=tls&sni=t0f.tupn.org&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=xhttp&host=t0f.tupn.org&path=%2Fvlxht2087&mode=auto#vlxht-2087-vlxhgfjx23l5
+vless://d466f3f0-6f28-45cf-ad2e-b4df18a399ad@www2.tupn.org:2087?encryption=none&security=tls&sni=t0f.tupn.org&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=xhttp&host=t0f.tupn.org&path=%2Fvlxht2087&mode=auto#vlxht-2087-vlxhgfjx23l5
+vless://d466f3f0-6f28-45cf-ad2e-b4df18a399ad@www3.tupn.org:2087?encryption=none&security=tls&sni=t0f.tupn.org&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=xhttp&host=t0f.tupn.org&path=%2Fvlxht2087&mode=auto#vlxht-2087-vlxhgfjx23l5
+vless://d466f3f0-6f28-45cf-ad2e-b4df18a399ad@www4.tupn.org:2087?encryption=none&security=tls&sni=t0f.tupn.org&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=xhttp&host=t0f.tupn.org&path=%2Fvlxht2087&mode=auto#vlxht-2087-vlxhgfjx23l5
+vless://d466f3f0-6f28-45cf-ad2e-b4df18a399ad@www5.tupn.org:2087?encryption=none&security=tls&sni=t0f.tupn.org&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=xhttp&host=t0f.tupn.org&path=%2Fvlxht2087&mode=auto#vlxht-2087-vlxhgfjx23l5
